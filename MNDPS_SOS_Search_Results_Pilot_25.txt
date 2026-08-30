@@ -1,0 +1,730 @@
+Minnesota Secretary of State - Business Search Results
+Source list: MNDPS all-FY-tabs payee list (FY20-FY26), exact-text de-duplicated, 3,308 names.
+Search rules: Scope = Begins With; Include Prior Names = Include; Filing Status = Active first, Inactive if no active results; suffix-drop fallback; first up to 3 matches opened per name.
+Searched 25 names: 12 with matches, 13 with no results (Active or Inactive).
+Portal: https://mblsportal.sos.mn.gov/Business/Search  Generated: 2026-08-30
+Pilot: first 25 names only.
+
+1. 180 DEGREES INC
+   Filing Status used: Active; 2 match(es) returned
+Match 1: 180 Degrees, Inc.
+   Active | Nonprofit Corporation (Domestic) | Minnesota Business Name
+   https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=d52eafed-a5d4-e011-a886-001ec94ffe7f
+      Business Type: Nonprofit Corporation (Domestic)
+      MN Statute: 317A
+      File Number: J-160
+      Home Jurisdiction: Minnesota
+      Filing Date: 04/15/1971
+      Status: Active / In Good Standing
+      Renewal Due Date: 12/31/2026
+      Registered Office Address: 236 Clifton Ave | Minneapolis, MN 55403 | USA
+      Number of Shares: NONE
+      Registered Agent(s): (Optional) Currently No Agent
+      President: Dan Pfarr; 236 CLIFTON AVE | MINNEAPOLIS, MN 55403-3466 | USA
+      Filing History:
+         04/15/1971 - Original Filing - Nonprofit Corporation (Domestic)
+         04/15/1971 - Nonprofit Corporation (Domestic) Business Name (Business Name: 180 Degrees, Inc.)
+         02/23/1972 - Amendment - Nonprofit Corporation (Domestic)
+         04/21/1972 - Amendment - Nonprofit Corporation (Domestic)
+         03/02/1981 - Registered Office and/or Agent - Nonprofit Corporation (Domestic)
+         10/29/2001 - Nonprofit Corporation (Domestic) Restated Articles
+         01/26/2006 - Involuntary Dissolution - Nonprofit Corporation (Domestic)
+         02/14/2006 - Nonprofit Corporation (Domestic) Other
+         01/21/2009 - Involuntary Dissolution - Nonprofit Corporation (Domestic)
+         08/25/2009 - Annual Reinstatement - Nonprofit Corporation (Domestic)
+         5/8/2014 - Registered Office - Nonprofit Corporation (Domestic)
+         2/22/2017 - Involuntary Dissolution - Nonprofit Corporation (Domestic)
+         4/11/2017 - Annual Reinstatement - Nonprofit Corporation (Domestic)
+         9/27/2017 - Amendment - Nonprofit Corporation (Domestic) Restated Articles
+         1/7/2025 - Involuntary Dissolution - Nonprofit Corporation (Domestic)
+         1/22/2025 - Annual Reinstatement - Nonprofit Corporation (Domestic)
+      Renewal History:
+         02/01/1990 - Annual Renewal - Nonprofit Corporation (Domestic)
+         02/04/1991 - Annual Renewal - Nonprofit Corporation (Domestic)
+         02/11/1992 - Annual Renewal - Nonprofit Corporation (Domestic)
+         05/03/1993 - Annual Renewal - Nonprofit Corporation (Domestic)
+         09/20/1994 - Annual Renewal - Nonprofit Corporation (Domestic)
+         07/20/1995 - Annual Renewal - Nonprofit Corporation (Domestic)
+         12/11/1996 - Annual Renewal - Nonprofit Corporation (Domestic)
+         12/31/1997 - Annual Renewal - Nonprofit Corporation (Domestic)
+         03/29/2000 - Annual Renewal - Nonprofit Corporation (Domestic)
+         06/29/2000 - Annual Renewal - Nonprofit Corporation (Domestic)
+         07/02/2001 - Annual Renewal - Nonprofit Corporation (Domestic)
+         11/18/2003 - Nonprofit Corporation (Domestic) Annual Renewal Deferred
+         01/01/2004 - Nonprofit Corporation (Domestic) Annual Renewal Deferred
+         12/01/2004 - Annual Renewal - Nonprofit Corporation (Domestic)
+         03/28/2007 - Annual Renewal - Nonprofit Corporation (Domestic)
+         08/25/2009 - Annual Reinstatement - Nonprofit Corporation (Domestic)
+         12/30/2010 - Annual Renewal - Nonprofit Corporation (Domestic)
+         04/29/2011 - Annual Renewal - Nonprofit Corporation (Domestic)
+         2/4/2013 - Annual Renewal - Nonprofit Corporation (Domestic)
+         10/2/2013 - Annual Renewal - Nonprofit Corporation (Domestic)
+         9/8/2014 - Annual Renewal - Nonprofit Corporation (Domestic)
+         1/5/2016 - Annual Renewal - Nonprofit Corporation (Domestic)
+         4/11/2017 - Annual Reinstatement - Nonprofit Corporation (Domestic)
+         1/31/2019 - Annual Renewal - Nonprofit Corporation (Domestic)
+         9/25/2019 - Annual Renewal - Nonprofit Corporation (Domestic)
+         11/13/2020 - Annual Renewal - Nonprofit Corporation (Domestic)
+         11/12/2021 - Annual Renewal - Nonprofit Corporation (Domestic)
+         8/10/2022 - Annual Renewal - Nonprofit Corporation (Domestic)
+         9/25/2023 - Annual Renewal - Nonprofit Corporation (Domestic)
+         1/22/2025 - Annual Reinstatement - Nonprofit Corporation (Domestic)
+Match 2: 180 DEGREES, INCORPORATED
+   Active | Trademark | Word or Phrase
+   https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=84b6dba6-a6d4-e011-a886-001ec94ffe7f
+      Business Type: Trademark - Service Mark
+      MN Statute: 333
+      File Number: 13898
+      Home Jurisdiction: Minnesota
+      Filing Date: 08/31/1988
+      Status: Active / In Good Standing
+      Renewal Due Date: 08/31/2028
+      Mark Type: Trademark - Service Mark
+      Registered Agent(s): (Optional) Currently No Agent
+      Comments: Mark is semi-circle with the number 180 inscribed in bold face at the top of the semi-circle. The semi circle is marked with line indica- tors giving it the appearance of a speedometer or thermometer. Underneath the semi-circle are the words DEGREES, INCORPORATED in bold-face type.
+      Filing History:
+         08/31/1988 - Original Filing - Trademark
+         03/16/1998 - Renewal - Trademark
+         03/18/2008 - Renewal - Trademark
+         4/3/2018 - Renewal - Trademark
+      Renewal History:
+         None shown
+
+2. 360 COMMUNITIES
+   Filing Status used: Active; 1 match(es) returned
+Match 1: 360 Communities
+   Active | Nonprofit Corporation (Domestic) | Minnesota Business Name
+   https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=c37ef123-a2d4-e011-a886-001ec94ffe7f
+      Business Type: Nonprofit Corporation (Domestic)
+      MN Statute: 317A
+      File Number: J-1140
+      Home Jurisdiction: Minnesota
+      Filing Date: 04/20/1972
+      Status: Active / In Good Standing
+      Renewal Due Date: 12/31/2026
+      Registered Office Address: 501 E Hwy 13 #112 | Burnsville, MN 55337-2877 | USA
+      Number of Shares: NONE
+      Registered Agent(s): (Optional) Currently No Agent
+      President: Jeff Mortensen; 501 HIGHWAY 13 E | STE 112 | BURNSVILLE, MN 55337-2877 | United States
+      Filing History:
+         04/20/1972 - Original Filing - Nonprofit Corporation (Domestic)
+         04/20/1972 - Nonprofit Corporation (Domestic) Business Name (Business Name: Community Action Council, Inc.)
+         12/06/1973 - Amendment - Nonprofit Corporation (Domestic)
+         02/06/1976 - Registered Office and/or Agent - Nonprofit Corporation (Domestic)
+         12/07/1990 - Registered Office and/or Agent - Nonprofit Corporation (Domestic)
+         06/23/1998 - Registered Office and/or Agent - Nonprofit Corporation (Domestic)
+         10/01/1999 - Registered Office and/or Agent - Nonprofit Corporation (Domestic)
+         09/20/2005 - Involuntary Dissolution - Nonprofit Corporation (Domestic)
+         09/26/2006 - Annual Reinstatement - Nonprofit Corporation (Domestic)
+         11/19/2009 - Nonprofit Corporation (Domestic) Business Name (Business Name: 360 Communities)
+         03/03/2010 - Registered Office and/or Agent - Nonprofit Corporation (Domestic)
+         5/2/2014 - Amendment - Nonprofit Corporation (Domestic) Restated Articles
+         3/10/2016 - Involuntary Dissolution - Nonprofit Corporation (Domestic)
+         6/22/2016 - Annual Reinstatement - Nonprofit Corporation (Domestic)
+         3/13/2019 - Registered Office - Nonprofit Corporation (Domestic)
+      Renewal History:
+         12/10/1990 - Annual Renewal - Nonprofit Corporation (Domestic)
+         05/09/1991 - Annual Renewal - Nonprofit Corporation (Domestic)
+         02/11/1992 - Annual Renewal - Nonprofit Corporation (Domestic)
+         06/10/1993 - Annual Renewal - Nonprofit Corporation (Domestic)
+         08/22/1994 - Annual Renewal - Nonprofit Corporation (Domestic)
+         05/30/1995 - Annual Renewal - Nonprofit Corporation (Domestic)
+         12/03/1996 - Annual Renewal - Nonprofit Corporation (Domestic)
+         10/20/1997 - Annual Renewal - Nonprofit Corporation (Domestic)
+         06/24/1998 - Annual Renewal - Nonprofit Corporation (Domestic)
+         03/06/2000 - Annual Renewal - Nonprofit Corporation (Domestic)
+         08/23/2001 - Annual Renewal - Nonprofit Corporation (Domestic)
+         04/30/2003 - Annual Renewal - Nonprofit Corporation (Domestic)
+         01/01/2004 - Nonprofit Corporation (Domestic) Annual Renewal Deferred
+         09/26/2006 - Annual Reinstatement - Nonprofit Corporation (Domestic)
+         09/13/2007 - Annual Renewal - Nonprofit Corporation (Domestic)
+         12/10/2008 - Annual Renewal - Nonprofit Corporation (Domestic)
+         11/20/2009 - Annual Renewal - Nonprofit Corporation (Domestic)
+         09/29/2010 - Annual Renewal - Nonprofit Corporation (Domestic)
+         10/19/2011 - Annual Renewal - Nonprofit Corporation (Domestic)
+         5/17/2012 - Annual Renewal - Nonprofit Corporation (Domestic)
+         12/2/2013 - Annual Renewal - Nonprofit Corporation (Domestic)
+         12/31/2014 - Annual Renewal - Nonprofit Corporation (Domestic)
+         6/22/2016 - Annual Reinstatement - Nonprofit Corporation (Domestic)
+         10/27/2017 - Annual Renewal - Nonprofit Corporation (Domestic)
+         10/17/2018 - Annual Renewal - Nonprofit Corporation (Domestic)
+         10/1/2019 - Annual Renewal - Nonprofit Corporation (Domestic)
+         10/7/2020 - Annual Renewal - Nonprofit Corporation (Domestic)
+         12/2/2021 - Annual Renewal - Nonprofit Corporation (Domestic)
+         12/12/2022 - Annual Renewal - Nonprofit Corporation (Domestic)
+         12/9/2023 - Annual Renewal - Nonprofit Corporation (Domestic)
+         2/8/2024 - Annual Renewal - Nonprofit Corporation (Domestic)
+         11/25/2025 - Annual Renewal - Nonprofit Corporation (Domestic)
+
+3. ABBOTT NORTHWEST HOSPITAL G
+   No results (Begins With, Active and Inactive; suffix-drop not applicable).
+
+4. ABUNDANT180 LLC
+   Filing Status used: Active; 1 match(es) returned
+Match 1: Abundant180, LLC
+   Active | Limited Liability Company (Domestic) | Minnesota Business Name
+   https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=089d0709-8ed4-e011-a886-001ec94ffe7f
+      Business Type: Limited Liability Company (Domestic)
+      MN Statute: 322C
+      File Number: 1933708-3
+      Home Jurisdiction: Minnesota
+      Filing Date: 07/14/2006
+      Status: Active / In Good Standing
+      Renewal Due Date: 12/31/2027
+      Registered Office Address: 30 South 9th Street | 7th Floor | Minneapolis, MN 55402 | USA
+      Registered Agent(s): Mark Harris
+      Manager: Mark Harris; 30 S 9TH ST | # 7 | MINNEAPOLIS, MN 55402-3106 | United States
+      Principal Executive Office Address: 30 S 9TH ST | # 7 | MINNEAPOLIS, MN 55402-3106 | United States
+      Filing History:
+         07/14/2006 - Original Filing - Limited Liability Company (Domestic)
+         07/14/2006 - Limited Liability Company (Domestic) Business Name (Business Name: Ra Enterprise, LLC)
+         01/07/2008 - Administrative Termination - Limited Liability Company (Domestic)
+         04/08/2010 - Annual Reinstatement - Limited Liability Company (Domestic)
+         04/09/2010 - Registered Office and/or Agent - Limited Liability Company (Domestic)
+         2/26/2013 - Administrative Termination - Limited Liability Company (Domestic)
+         2/28/2014 - Administrative Termination Name Hold Release - Limited Liability Company (Domestic)
+         8/26/2015 - Annual Reinstatement - Limited Liability Company (Domestic)
+         8/26/2015 - Amendment - Limited Liability Company (Domestic) (Business Name: Ra Enterprises, LLC)
+         9/16/2015 - Amendment - Limited Liability Company (Domestic) (Business Name: HARRIS PAPER COMPANY, LLC)
+         12/11/2015 - Amendment - Limited Liability Company (Domestic) (Business Name: ABUNDANT OFFICE SOLUTIONS, LLC)
+         1/1/2018 - Conversion to 322C Due to Statute Mandate - Limited Liability Company (Domestic)
+         6/4/2018 - Registered Office and/or Agent - Limited Liability Company (Domestic)
+         2/20/2019 - Amendment - Limited Liability Company (Domestic) (Business Name: Abundant180, LLC)
+         5/6/2020 - Registered Office and/or Agent - Limited Liability Company (Domestic)
+         12/20/2021 - Registered Office and/or Agent - Limited Liability Company (Domestic)
+      Renewal History:
+         04/08/2010 - Annual Reinstatement - Limited Liability Company (Domestic)
+         3/8/2012 - Annual Renewal - Limited Liability Company (Domestic)
+         8/26/2015 - Annual Reinstatement - Limited Liability Company (Domestic)
+         1/16/2017 - Annual Renewal - Limited Liability Company (Domestic)
+         10/30/2017 - Annual Renewal - Limited Liability Company (Domestic)
+         12/27/2018 - Annual Renewal - Limited Liability Company (Domestic)
+         12/6/2019 - Annual Renewal - Limited Liability Company (Domestic)
+         10/15/2020 - Annual Renewal - Limited Liability Company (Domestic)
+         11/16/2021 - Annual Renewal - Limited Liability Company (Domestic)
+         3/5/2022 - Annual Renewal - Limited Liability Company (Domestic)
+         3/15/2023 - Annual Renewal - Limited Liability Company (Domestic)
+         4/18/2024 - Annual Renewal - Limited Liability Company (Domestic)
+         5/1/2025 - Annual Renewal - Limited Liability Company (Domestic)
+         6/18/2026 - Annual Renewal - Limited Liability Company (Domestic)
+
+5. ACET INC
+   Filing Status used: Active; 2 match(es) returned
+Match 1: ACET Inc.
+   Active | Name Reservation | Minnesota Business Name
+   https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=7ad3a414-79f4-eb11-91b1-00155d32b93a
+      Business Type: Name Reservation
+      File Number: 1246222300030
+      Home Jurisdiction: Minnesota
+      Filing Date: 8/3/2021
+      Status: Active / In Good Standing
+      Renewal Due Date: 08/03/2027
+      Registered Agent(s): (Optional) Currently No Agent
+      Filing History:
+         8/3/2021 - Original Filing - Name Reservation (Business Name: ACET Inc.)
+         4/26/2022 - Renewal - Name Reservation
+         7/11/2023 - Renewal - Name Reservation
+         5/6/2024 - Renewal - Name Reservation
+         5/12/2025 - Renewal - Name Reservation
+         3/24/2026 - Renewal - Name Reservation
+      Renewal History:
+         None shown
+Match 2: ACET Incorporated
+   Active | Business Corporation (Domestic) | Minnesota Business Name
+   https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=ad22b1bc-b4d4-e011-a886-001ec94ffe7f
+      Business Type: Business Corporation (Domestic)
+      MN Statute: 302A
+      File Number: 11J-458
+      Home Jurisdiction: Minnesota
+      Filing Date: 10/23/2000
+      Status: Active / In Good Standing
+      Renewal Due Date: 12/31/2027
+      Registered Office Address: 10700 Normandale Blvd #201 | Minneapolis, MN 55437 | USA
+      Number of Shares: 1,000
+      Registered Agent(s): (Optional) Currently No Agent
+      Chief Executive Officer: Stella Zimmerman; 10700 NORMANDALE BLVD | STE 201 | MINNEAPOLIS, MN 55437-2700 | USA
+      Principal Executive Office Address: 10700 NORMANDALE BLVD | # 201 | MINNEAPOLIS, MN 55437-2700 | USA
+      Comments: Incorporator holds AN-231151
+      Filing History:
+         10/23/2000 - Original Filing - Business Corporation (Domestic)
+         10/23/2000 - Business Corporation (Domestic) Business Name (Business Name: ACET Incorporated)
+         05/19/2006 - Registered Office and/or Agent - Business Corporation (Domestic)
+         08/22/2008 - Registered Office and/or Agent - Business Corporation (Domestic)
+         7/25/2017 - Amendment - Business Corporation (Domestic)
+         8/12/2019 - Registered Office and/or Agent - Business Corporation (Domestic)
+      Renewal History:
+         02/11/2002 - Annual Renewal - Business Corporation (Domestic)
+         08/19/2002 - Annual Renewal - Business Corporation (Domestic)
+         01/01/2004 - Business Corporation (Domestic) Annual Renewal Deferred
+         01/04/2004 - Annual Renewal - Business Corporation (Domestic)
+         03/16/2005 - Annual Renewal - Business Corporation (Domestic)
+         03/21/2006 - Annual Renewal - Business Corporation (Domestic)
+         05/21/2007 - Annual Renewal - Business Corporation (Domestic)
+         07/24/2008 - Annual Renewal - Business Corporation (Domestic)
+         05/01/2009 - Annual Renewal - Business Corporation (Domestic)
+         04/21/2010 - Annual Renewal - Business Corporation (Domestic)
+         04/25/2011 - Annual Renewal - Business Corporation (Domestic)
+         6/7/2012 - Annual Renewal - Business Corporation (Domestic)
+         6/5/2013 - Annual Renewal - Business Corporation (Domestic)
+         7/21/2014 - Annual Renewal - Business Corporation (Domestic)
+         5/21/2015 - Annual Renewal - Business Corporation (Domestic)
+         5/18/2016 - Annual Renewal - Business Corporation (Domestic)
+         6/29/2017 - Annual Renewal - Business Corporation (Domestic)
+         6/27/2018 - Annual Renewal - Business Corporation (Domestic)
+         8/1/2019 - Annual Renewal - Business Corporation (Domestic)
+         7/30/2020 - Annual Renewal - Business Corporation (Domestic)
+         7/19/2021 - Annual Renewal - Business Corporation (Domestic)
+         3/29/2022 - Annual Renewal - Business Corporation (Domestic)
+         3/28/2023 - Annual Renewal - Business Corporation (Domestic)
+         3/9/2024 - Annual Renewal - Business Corporation (Domestic)
+         3/13/2025 - Annual Renewal - Business Corporation (Domestic)
+         3/9/2026 - Annual Renewal - Business Corporation (Domestic)
+
+6. ACOMA TOWN OF
+   No results (Begins With, Active and Inactive; suffix-drop not applicable).
+
+7. ACTION FLEET LLC
+   Filing Status used: Active; 1 match(es) returned
+Match 1: Action Fleet, LLC
+   Active | Limited Liability Company (Domestic) | Minnesota Business Name
+   https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=a3392d3b-ae4e-e611-816c-00155d01c56d
+      Business Type: Limited Liability Company (Domestic)
+      MN Statute: 322C
+      File Number: 895881100023
+      Home Jurisdiction: Minnesota
+      Filing Date: 7/20/2016
+      Status: Active / In Good Standing
+      Renewal Due Date: 12/31/2027
+      Registered Office Address: 11133 86th Avenue North | Maple Grove, MN 55369 | USA
+      Registered Agent(s): Gregory Sapp
+      Manager: Greg Sapp; 11133 86TH AVE N | MAPLE GROVE, MN 55369-4529 | USA
+      Principal Executive Office Address: 11133 86TH AVE N | MAPLE GROVE, MN 55369-4529 | USA
+      Filing History:
+         7/20/2016 - Original Filing - Limited Liability Company (Domestic) (Business Name: Action Fleet, LLC)
+      Renewal History:
+         7/13/2017 - Annual Renewal - Limited Liability Company (Domestic)
+         3/17/2018 - Annual Renewal - Limited Liability Company (Domestic)
+         4/7/2019 - Annual Renewal - Limited Liability Company (Domestic)
+         2/18/2020 - Annual Renewal - Limited Liability Company (Domestic)
+         3/3/2021 - Annual Renewal - Limited Liability Company (Domestic)
+         3/24/2022 - Annual Renewal - Limited Liability Company (Domestic)
+         3/27/2023 - Annual Renewal - Limited Liability Company (Domestic)
+         3/19/2024 - Annual Renewal - Limited Liability Company (Domestic)
+         2/25/2025 - Annual Renewal - Limited Liability Company (Domestic)
+         2/22/2026 - Annual Renewal - Limited Liability Company (Domestic)
+
+8. ADA CITY OF
+   No results (Begins With, Active and Inactive; suffix-drop not applicable).
+
+9. ADAIRS IN STITCHES
+   Filing Status used: Inactive; 1 match(es) returned
+Match 1: Adair's IN STITCHES
+   Inactive | Assumed Name | Minnesota Business Name
+   https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=5422d420-b0d4-e011-a886-001ec94ffe7f
+      Business Type: Assumed Name
+      MN Statute: 333
+      File Number: 203689
+      Home Jurisdiction: Minnesota
+      Filing Date: 03/03/1998
+      Status: Inactive
+      Renewal Due Date: 03/03/2018
+      Principal Place of Business Address: 13051 192 1/2 Ln | Elk River, MN 55330 | USA
+      Filing History:
+         03/03/1998 - Original Filing - Assumed Name
+         03/03/1998 - Assumed Name Business Name (Business Name: Adair's IN STITCHES)
+         09/06/2007 - Assumed Name Renewal
+         3/5/2018 - Expired - Assumed Name
+      Renewal History:
+         None shown
+
+10. ADMINISTRATION DEPT
+   No results (Begins With, Active and Inactive; suffix-drop not applicable).
+
+11. ADRIAN CITY OF T
+   No results (Begins With, Active and Inactive; suffix-drop not applicable).
+
+12. ADRIAN TOWN OF
+   No results (Begins With, Active and Inactive; suffix-drop not applicable).
+
+13. ADVANCED GRAPHIX INC
+   Filing Status used: Active; 1 match(es) returned
+Match 1: Advanced Graphix, Inc.
+   Active | Business Corporation (Domestic) | Minnesota Business Name
+   https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=5aef3d27-aad4-e011-a886-001ec94ffe7f
+      Business Type: Business Corporation (Domestic)
+      MN Statute: 302A
+      File Number: 9U-436
+      Home Jurisdiction: Minnesota
+      Filing Date: 08/29/1997
+      Status: Active / In Good Standing
+      Renewal Due Date: 12/31/2026
+      Registered Office Address: 2905 Vanderbie Str | Little Canada, MN 55117-1226 | USA
+      Number of Shares: 100,000
+      Registered Agent(s): (Optional) Currently No Agent
+      Chief Executive Officer: Ronald Knoche; 2905 VANDERBIE ST | LITTLE CANADA, MN 55117-1226 | USA
+      Principal Executive Office Address: 2905 VANDERBIE ST | LITTLE CANADA, MN 55117-1226 | USA
+      Filing History:
+         08/29/1997 - Original Filing - Business Corporation (Domestic) (Business Name: Advanced Graphix, Inc.)
+      Renewal History:
+         06/01/1999 - Annual Renewal - Business Corporation (Domestic)
+         03/17/2000 - Annual Renewal - Business Corporation (Domestic)
+         12/15/2000 - Annual Renewal - Business Corporation (Domestic)
+         12/19/2001 - Annual Renewal - Business Corporation (Domestic)
+         02/28/2003 - Annual Renewal - Business Corporation (Domestic)
+         10/24/2003 - Annual Renewal - Business Corporation (Domestic)
+         08/12/2004 - Annual Renewal - Business Corporation (Domestic)
+         05/25/2005 - Annual Renewal - Business Corporation (Domestic)
+         01/27/2006 - Annual Renewal - Business Corporation (Domestic)
+         02/09/2007 - Annual Renewal - Business Corporation (Domestic)
+         08/19/2008 - Annual Renewal - Business Corporation (Domestic)
+         10/22/2009 - Annual Renewal - Business Corporation (Domestic)
+         04/26/2010 - Annual Renewal - Business Corporation (Domestic)
+         07/28/2011 - Annual Renewal - Business Corporation (Domestic)
+         9/19/2012 - Annual Renewal - Business Corporation (Domestic)
+         9/20/2013 - Annual Renewal - Business Corporation (Domestic)
+         9/16/2014 - Annual Renewal - Business Corporation (Domestic)
+         11/3/2015 - Annual Renewal - Business Corporation (Domestic)
+         11/11/2016 - Annual Renewal - Business Corporation (Domestic)
+         10/18/2017 - Annual Renewal - Business Corporation (Domestic)
+         12/6/2018 - Annual Renewal - Business Corporation (Domestic)
+         10/22/2019 - Annual Renewal - Business Corporation (Domestic)
+         9/22/2020 - Annual Renewal - Business Corporation (Domestic)
+         10/21/2021 - Annual Renewal - Business Corporation (Domestic)
+         9/27/2022 - Annual Renewal - Business Corporation (Domestic)
+         11/9/2023 - Annual Renewal - Business Corporation (Domestic)
+         9/10/2024 - Annual Renewal - Business Corporation (Domestic)
+         7/30/2025 - Annual Renewal - Business Corporation (Domestic)
+
+14. ADVANCED TIRE & AUTO SVC LLC
+   No results (Begins With, Active and Inactive, suffix-drop attempted).
+
+15. ADVOCACY CENTER OF WINONA
+   Filing Status used: Active; 1 match(es) returned
+Match 1: Advocacy Center of Winona
+   Active | Nonprofit Corporation (Domestic) | Minnesota Business Name
+   https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=c03a8d0b-a6d4-e011-a886-001ec94ffe7f
+      Business Type: Nonprofit Corporation (Domestic)
+      MN Statute: 317A
+      File Number: Q-1038
+      Home Jurisdiction: Minnesota
+      Filing Date: 11/13/1978
+      Status: Active / In Good Standing
+      Renewal Due Date: 12/31/2026
+      Registered Office Address: 100 Latsch Square | Suite 201 | Winona, MN 55987-5598 | USA
+      Number of Shares: NONE
+      Registered Agent(s): (Optional) Currently No Agent
+      President: Jocylyn Poehler; 100 LATSCH SQ | STE 201 | WINONA, MN 55987-2995 | USA
+      Filing History:
+         11/13/1978 - Original Filing - Nonprofit Corporation (Domestic)
+         11/13/1978 - Nonprofit Corporation (Domestic) Business Name (Business Name: Women's Resource Center of Winona)
+         05/11/1990 - Registered Office and/or Agent - Nonprofit Corporation (Domestic)
+         04/08/1992 - Registered Office and/or Agent - Nonprofit Corporation (Domestic)
+         12/29/2014 - Registered Office - Nonprofit Corporation (Domestic)
+         12/19/2019 - Registered Office - Nonprofit Corporation (Domestic)
+         3/11/2020 - Amendment - Nonprofit Corporation (Domestic) (Business Name: Advocacy Center of Winona)
+         2/22/2024 - Involuntary Dissolution - Nonprofit Corporation (Domestic)
+         7/22/2024 - Annual Reinstatement - Nonprofit Corporation (Domestic)
+      Renewal History:
+         05/16/1990 - Annual Renewal - Nonprofit Corporation (Domestic)
+         02/11/1991 - Annual Renewal - Nonprofit Corporation (Domestic)
+         04/09/1992 - Annual Renewal - Nonprofit Corporation (Domestic)
+         07/01/1993 - Annual Renewal - Nonprofit Corporation (Domestic)
+         07/06/1994 - Annual Renewal - Nonprofit Corporation (Domestic)
+         05/25/1995 - Annual Renewal - Nonprofit Corporation (Domestic)
+         11/25/1996 - Annual Renewal - Nonprofit Corporation (Domestic)
+         11/07/1997 - Annual Renewal - Nonprofit Corporation (Domestic)
+         07/20/1998 - Annual Renewal - Nonprofit Corporation (Domestic)
+         01/21/2000 - Annual Renewal - Nonprofit Corporation (Domestic)
+         07/17/2000 - Annual Renewal - Nonprofit Corporation (Domestic)
+         01/23/2002 - Annual Renewal - Nonprofit Corporation (Domestic)
+         11/18/2003 - Nonprofit Corporation (Domestic) Annual Renewal Deferred
+         01/01/2004 - Nonprofit Corporation (Domestic) Annual Renewal Deferred
+         12/29/2004 - Annual Renewal - Nonprofit Corporation (Domestic)
+         03/17/2005 - Annual Renewal - Nonprofit Corporation (Domestic)
+         05/05/2006 - Annual Renewal - Nonprofit Corporation (Domestic)
+         10/30/2007 - Annual Renewal - Nonprofit Corporation (Domestic)
+         09/13/2008 - Annual Renewal - Nonprofit Corporation (Domestic)
+         10/30/2009 - Annual Renewal - Nonprofit Corporation (Domestic)
+         03/01/2010 - Annual Renewal - Nonprofit Corporation (Domestic)
+         08/31/2011 - Annual Renewal - Nonprofit Corporation (Domestic)
+         11/20/2012 - Annual Renewal - Nonprofit Corporation (Domestic)
+         5/13/2013 - Annual Renewal - Nonprofit Corporation (Domestic)
+         10/16/2014 - Annual Renewal - Nonprofit Corporation (Domestic)
+         5/5/2015 - Annual Renewal - Nonprofit Corporation (Domestic)
+         10/5/2016 - Annual Renewal - Nonprofit Corporation (Domestic)
+         9/19/2017 - Annual Renewal - Nonprofit Corporation (Domestic)
+         10/5/2018 - Annual Renewal - Nonprofit Corporation (Domestic)
+         11/7/2019 - Annual Renewal - Nonprofit Corporation (Domestic)
+         12/7/2020 - Annual Renewal - Nonprofit Corporation (Domestic)
+         11/18/2021 - Annual Renewal - Nonprofit Corporation (Domestic)
+         12/22/2022 - Annual Renewal - Nonprofit Corporation (Domestic)
+         7/22/2024 - Annual Reinstatement - Nonprofit Corporation (Domestic)
+         6/16/2025 - Annual Renewal - Nonprofit Corporation (Domestic)
+
+16. ADVOCATES AGAINST DOMESTIC
+   Filing Status used: Active; 2 match(es) returned
+Match 1: Advocates Against Domestic Abuse
+   Active | Nonprofit Corporation (Domestic) | Prior Minnesota Business Name
+   Prior-name hit: Yes
+   https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=159e80e4-bad4-e011-a886-001ec94ffe7f
+      Business Type: Nonprofit Corporation (Domestic)
+      MN Statute: 317A
+      File Number: Q-534
+      Home Jurisdiction: Minnesota
+      Filing Date: 06/13/1978
+      Status: Active / In Good Standing
+      Renewal Due Date: 12/31/2027
+      Registered Office Address: 1611 NW 4th Str | Grand Rapids, MN 55744 | USA
+      Number of Shares: NONE
+      Registered Agent(s): (Optional) Currently No Agent
+      President: Advocates for Family Peace; 1611 NW 4th St | Grand Rapids, MN 55744-2102 | USA
+      Filing History:
+         06/13/1978 - Original Filing - Nonprofit Corporation (Domestic)
+         06/13/1978 - Nonprofit Corporation (Domestic) Business Name (Business Name: Itasca County Adult Protection Council)
+         05/23/1989 - Nonprofit Corporation (Domestic) Business Name (Business Name: Advocates Against Domestic Abuse)
+         02/16/1990 - Registered Office and/or Agent - Nonprofit Corporation (Domestic)
+         12/22/1997 - Nonprofit Corporation (Domestic) Business Name (Business Name: Advocates for Family Peace)
+         07/01/1998 - Registered Office and/or Agent - Nonprofit Corporation (Domestic)
+         1/25/2022 - Involuntary Dissolution - Nonprofit Corporation (Domestic)
+         12/30/2022 - Annual Reinstatement - Nonprofit Corporation (Domestic)
+         1/7/2025 - Involuntary Dissolution - Nonprofit Corporation (Domestic)
+         8/8/2025 - Annual Reinstatement - Nonprofit Corporation (Domestic)
+      Renewal History:
+         02/22/1990 - Annual Renewal - Nonprofit Corporation (Domestic)
+         02/07/1991 - Annual Renewal - Nonprofit Corporation (Domestic)
+         02/07/1992 - Annual Renewal - Nonprofit Corporation (Domestic)
+         06/24/1993 - Annual Renewal - Nonprofit Corporation (Domestic)
+         09/14/1994 - Annual Renewal - Nonprofit Corporation (Domestic)
+         10/03/1995 - Annual Renewal - Nonprofit Corporation (Domestic)
+         01/03/1997 - Annual Renewal - Nonprofit Corporation (Domestic)
+         12/23/1997 - Annual Renewal - Nonprofit Corporation (Domestic)
+         07/02/1998 - Annual Renewal - Nonprofit Corporation (Domestic)
+         02/15/2000 - Annual Renewal - Nonprofit Corporation (Domestic)
+         11/07/2000 - Annual Renewal - Nonprofit Corporation (Domestic)
+         12/26/2001 - Annual Renewal - Nonprofit Corporation (Domestic)
+         11/18/2003 - Nonprofit Corporation (Domestic) Annual Renewal Deferred
+         01/01/2004 - Nonprofit Corporation (Domestic) Annual Renewal Deferred
+         01/06/2004 - Annual Renewal - Nonprofit Corporation (Domestic)
+         02/24/2005 - Annual Renewal - Nonprofit Corporation (Domestic)
+         01/27/2006 - Annual Renewal - Nonprofit Corporation (Domestic)
+         06/10/2007 - Annual Renewal - Nonprofit Corporation (Domestic)
+         02/12/2008 - Annual Renewal - Nonprofit Corporation (Domestic)
+         02/11/2009 - Annual Renewal - Nonprofit Corporation (Domestic)
+         02/26/2010 - Annual Renewal - Nonprofit Corporation (Domestic)
+         08/09/2011 - Annual Renewal - Nonprofit Corporation (Domestic)
+         8/15/2012 - Annual Renewal - Nonprofit Corporation (Domestic)
+         1/26/2013 - Annual Renewal - Nonprofit Corporation (Domestic)
+         8/8/2014 - Annual Renewal - Nonprofit Corporation (Domestic)
+         10/24/2015 - Annual Renewal - Nonprofit Corporation (Domestic)
+         6/2/2016 - Annual Renewal - Nonprofit Corporation (Domestic)
+         7/10/2017 - Annual Renewal - Nonprofit Corporation (Domestic)
+         6/13/2018 - Annual Renewal - Nonprofit Corporation (Domestic)
+         4/16/2019 - Annual Renewal - Nonprofit Corporation (Domestic)
+         4/30/2020 - Annual Renewal - Nonprofit Corporation (Domestic)
+         12/30/2022 - Annual Reinstatement - Nonprofit Corporation (Domestic)
+         1/24/2024 - Annual Renewal - Nonprofit Corporation (Domestic)
+         8/8/2025 - Annual Reinstatement - Nonprofit Corporation (Domestic)
+         7/27/2026 - Annual Renewal - Nonprofit Corporation (Domestic)
+Match 2: Advocates Against Domestic Abuse
+   Active | Nonprofit Corporation (Domestic) | Minnesota Business Name
+   https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=a78b6a3a-b8d4-e011-a886-001ec94ffe7f
+      Business Type: Nonprofit Corporation (Domestic)
+      MN Statute: 317A
+      File Number: T-962
+      Home Jurisdiction: Minnesota
+      Filing Date: 06/18/1981
+      Status: Active / In Good Standing
+      Renewal Due Date: 12/31/2027
+      Registered Office Address: 117 2nd Str NW PO Box 153 | Aitkin, MN 56431 | USA
+      Number of Shares: NONE
+      Registered Agent(s): (Optional) Currently No Agent
+      President: Shanna Serven; PO BOX 153 | 117 2ND STREET NW | AITKIN, MN 56431-0153 | USA
+      Filing History:
+         06/18/1981 - Original Filing - Nonprofit Corporation (Domestic)
+         06/18/1981 - Nonprofit Corporation (Domestic) Business Name (Business Name: Aitkin County Women's Advocates)
+         04/17/1991 - Registered Office and/or Agent - Nonprofit Corporation (Domestic)
+         02/04/1992 - Nonprofit Corporation (Domestic) Business Name (Business Name: Aitkin County Advocates Against Domestic Abuse)
+         02/04/1992 - Nonprofit Corporation (Domestic) Restated Articles
+         08/17/1993 - Registered Office and/or Agent - Nonprofit Corporation (Domestic)
+         06/22/1998 - Registered Office and/or Agent - Nonprofit Corporation (Domestic)
+         11/01/2000 - Nonprofit Corporation (Domestic) Business Name (Business Name: Advocates Against Domestic Abuse)
+         11/01/2000 - Registered Office and/or Agent - Nonprofit Corporation (Domestic)
+         12/04/2007 - Registered Office and/or Agent - Nonprofit Corporation (Domestic)
+         8/6/2012 - Involuntary Dissolution - Nonprofit Corporation (Domestic)
+         1/4/2013 - Annual Reinstatement - Nonprofit Corporation (Domestic)
+         3/13/2019 - Involuntary Dissolution - Nonprofit Corporation (Domestic)
+         1/9/2020 - Annual Reinstatement - Nonprofit Corporation (Domestic)
+      Renewal History:
+         04/19/1991 - Annual Renewal - Nonprofit Corporation (Domestic)
+         03/02/1992 - Annual Renewal - Nonprofit Corporation (Domestic)
+         08/18/1993 - Annual Renewal - Nonprofit Corporation (Domestic)
+         09/19/1994 - Annual Renewal - Nonprofit Corporation (Domestic)
+         10/12/1995 - Annual Renewal - Nonprofit Corporation (Domestic)
+         12/27/1996 - Annual Renewal - Nonprofit Corporation (Domestic)
+         10/21/1997 - Annual Renewal - Nonprofit Corporation (Domestic)
+         06/23/1998 - Annual Renewal - Nonprofit Corporation (Domestic)
+         08/23/1999 - Annual Renewal - Nonprofit Corporation (Domestic)
+         11/01/2000 - Annual Renewal - Nonprofit Corporation (Domestic)
+         07/25/2001 - Annual Renewal - Nonprofit Corporation (Domestic)
+         11/18/2003 - Nonprofit Corporation (Domestic) Annual Renewal Deferred
+         01/01/2004 - Nonprofit Corporation (Domestic) Annual Renewal Deferred
+         10/01/2004 - Annual Renewal - Nonprofit Corporation (Domestic)
+         09/22/2005 - Annual Renewal - Nonprofit Corporation (Domestic)
+         12/07/2006 - Annual Renewal - Nonprofit Corporation (Domestic)
+         11/19/2007 - Annual Renewal - Nonprofit Corporation (Domestic)
+         11/14/2008 - Annual Renewal - Nonprofit Corporation (Domestic)
+         11/05/2009 - Annual Renewal - Nonprofit Corporation (Domestic)
+         11/12/2010 - Annual Renewal - Nonprofit Corporation (Domestic)
+         1/4/2013 - Annual Reinstatement - Nonprofit Corporation (Domestic)
+         3/2/2014 - Annual Renewal - Nonprofit Corporation (Domestic)
+         4/24/2015 - Annual Renewal - Nonprofit Corporation (Domestic)
+         11/16/2016 - Annual Renewal - Nonprofit Corporation (Domestic)
+         11/21/2017 - Annual Renewal - Nonprofit Corporation (Domestic)
+         1/9/2020 - Annual Reinstatement - Nonprofit Corporation (Domestic)
+         1/14/2022 - Annual Renewal - Nonprofit Corporation (Domestic)
+         12/30/2022 - Annual Renewal - Nonprofit Corporation (Domestic)
+         10/6/2023 - Annual Renewal - Nonprofit Corporation (Domestic)
+         10/7/2024 - Annual Renewal - Nonprofit Corporation (Domestic)
+         1/28/2025 - Annual Renewal - Nonprofit Corporation (Domestic)
+         1/5/2026 - Annual Renewal - Nonprofit Corporation (Domestic)
+
+17. ADVOCATES FOR FAMILY PEACE
+   Filing Status used: Active; 1 match(es) returned
+Match 1: Advocates for Family Peace
+   Active | Nonprofit Corporation (Domestic) | Minnesota Business Name
+   https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=159e80e4-bad4-e011-a886-001ec94ffe7f
+      Business Type: Nonprofit Corporation (Domestic)
+      MN Statute: 317A
+      File Number: Q-534
+      Home Jurisdiction: Minnesota
+      Filing Date: 06/13/1978
+      Status: Active / In Good Standing
+      Renewal Due Date: 12/31/2027
+      Registered Office Address: 1611 NW 4th Str | Grand Rapids, MN 55744 | USA
+      Number of Shares: NONE
+      Registered Agent(s): (Optional) Currently No Agent
+      President: Advocates for Family Peace; 1611 NW 4th St | Grand Rapids, MN 55744-2102 | USA
+      Filing History:
+         06/13/1978 - Original Filing - Nonprofit Corporation (Domestic)
+         06/13/1978 - Nonprofit Corporation (Domestic) Business Name (Business Name: Itasca County Adult Protection Council)
+         05/23/1989 - Nonprofit Corporation (Domestic) Business Name (Business Name: Advocates Against Domestic Abuse)
+         02/16/1990 - Registered Office and/or Agent - Nonprofit Corporation (Domestic)
+         12/22/1997 - Nonprofit Corporation (Domestic) Business Name (Business Name: Advocates for Family Peace)
+         07/01/1998 - Registered Office and/or Agent - Nonprofit Corporation (Domestic)
+         1/25/2022 - Involuntary Dissolution - Nonprofit Corporation (Domestic)
+         12/30/2022 - Annual Reinstatement - Nonprofit Corporation (Domestic)
+         1/7/2025 - Involuntary Dissolution - Nonprofit Corporation (Domestic)
+         8/8/2025 - Annual Reinstatement - Nonprofit Corporation (Domestic)
+      Renewal History:
+         02/22/1990 - Annual Renewal - Nonprofit Corporation (Domestic)
+         02/07/1991 - Annual Renewal - Nonprofit Corporation (Domestic)
+         02/07/1992 - Annual Renewal - Nonprofit Corporation (Domestic)
+         06/24/1993 - Annual Renewal - Nonprofit Corporation (Domestic)
+         09/14/1994 - Annual Renewal - Nonprofit Corporation (Domestic)
+         10/03/1995 - Annual Renewal - Nonprofit Corporation (Domestic)
+         01/03/1997 - Annual Renewal - Nonprofit Corporation (Domestic)
+         12/23/1997 - Annual Renewal - Nonprofit Corporation (Domestic)
+         07/02/1998 - Annual Renewal - Nonprofit Corporation (Domestic)
+         02/15/2000 - Annual Renewal - Nonprofit Corporation (Domestic)
+         11/07/2000 - Annual Renewal - Nonprofit Corporation (Domestic)
+         12/26/2001 - Annual Renewal - Nonprofit Corporation (Domestic)
+         11/18/2003 - Nonprofit Corporation (Domestic) Annual Renewal Deferred
+         01/01/2004 - Nonprofit Corporation (Domestic) Annual Renewal Deferred
+         01/06/2004 - Annual Renewal - Nonprofit Corporation (Domestic)
+         02/24/2005 - Annual Renewal - Nonprofit Corporation (Domestic)
+         01/27/2006 - Annual Renewal - Nonprofit Corporation (Domestic)
+         06/10/2007 - Annual Renewal - Nonprofit Corporation (Domestic)
+         02/12/2008 - Annual Renewal - Nonprofit Corporation (Domestic)
+         02/11/2009 - Annual Renewal - Nonprofit Corporation (Domestic)
+         02/26/2010 - Annual Renewal - Nonprofit Corporation (Domestic)
+         08/09/2011 - Annual Renewal - Nonprofit Corporation (Domestic)
+         8/15/2012 - Annual Renewal - Nonprofit Corporation (Domestic)
+         1/26/2013 - Annual Renewal - Nonprofit Corporation (Domestic)
+         8/8/2014 - Annual Renewal - Nonprofit Corporation (Domestic)
+         10/24/2015 - Annual Renewal - Nonprofit Corporation (Domestic)
+         6/2/2016 - Annual Renewal - Nonprofit Corporation (Domestic)
+         7/10/2017 - Annual Renewal - Nonprofit Corporation (Domestic)
+         6/13/2018 - Annual Renewal - Nonprofit Corporation (Domestic)
+         4/16/2019 - Annual Renewal - Nonprofit Corporation (Domestic)
+         4/30/2020 - Annual Renewal - Nonprofit Corporation (Domestic)
+         12/30/2022 - Annual Reinstatement - Nonprofit Corporation (Domestic)
+         1/24/2024 - Annual Renewal - Nonprofit Corporation (Domestic)
+         8/8/2025 - Annual Reinstatement - Nonprofit Corporation (Domestic)
+         7/27/2026 - Annual Renewal - Nonprofit Corporation (Domestic)
+
+18. ADWEAR SPECIALTIES
+   Filing Status used: Active; 1 match(es) returned
+Match 1: Adwear Specialties
+   Active | Assumed Name | Minnesota Business Name
+   https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=a87f1562-8d7a-ef11-9088-00155d32b947
+      Business Type: Assumed Name
+      MN Statute: 333
+      File Number: 1493697600036
+      Home Jurisdiction: Minnesota
+      Filing Date: 9/24/2024
+      Status: Active / In Good Standing
+      Renewal Due Date: 12/31/2027
+      Principal Place of Business Address: 482 griggs street s | saint paul, MN 55116 | USA
+      Filing History:
+         9/24/2024 - Original Filing - Assumed Name (Business Name: Adwear Specialties)
+      Renewal History:
+         5/7/2025 - Annual Renewal - Assumed Name
+         2/23/2026 - Annual Renewal - Assumed Name
+
+19. AE SIGN SYSTEMS
+   Filing Status used: Inactive; 2 match(es) returned
+Match 1: AE Sign Systems
+   Inactive | Assumed Name | Minnesota Business Name
+   https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=d49620f1-86d4-e011-a886-001ec94ffe7f
+      Business Type: Assumed Name
+      MN Statute: 333
+      File Number: 619314-2
+      Home Jurisdiction: Minnesota
+      Filing Date: 09/08/2003
+      Status: Inactive
+      Renewal Due Date: 12/31/2014
+      Principal Place of Business Address: 193 Mt Vernon Ave | Maplewood, MN 55117 | USA
+      Filing History:
+         09/08/2003 - Original Filing - Assumed Name (Business Name: AE Sign Systems)
+         6/3/2015 - Administrative Expiration - Assumed Name
+      Renewal History:
+         7/15/2013 - Annual Renewal - Assumed Name
+Match 2: AE Sign Systems
+   Inactive | Assumed Name | Minnesota Business Name
+   https://mblsportal.sos.mn.gov/Business/SearchDetails?filingGuid=cfb4254e-ce58-e611-816c-00155d01c56d
+      Business Type: Assumed Name
+      MN Statute: 333
+      File Number: 897066100034
+      Home Jurisdiction: Minnesota
+      Filing Date: 8/2/2016
+      Status: Inactive
+      Renewal Due Date: 12/31/2025
+      Principal Place of Business Address: 1943 Rice Str | Roseville, MN 55113 | USA
+      Filing History:
+         8/2/2016 - Original Filing - Assumed Name (Business Name: AE Sign Systems)
+         3/7/2018 - Administrative Expiration - Assumed Name
+         2/21/2022 - Annual Reinstatement - Assumed Name
+         2/26/2024 - Administrative Expiration - Assumed Name
+         9/20/2024 - Annual Reinstatement - Assumed Name
+         1/15/2026 - Administrative Expiration - Assumed Name
+      Renewal History:
+         2/21/2022 - Annual Reinstatement - Assumed Name
+         9/20/2024 - Annual Reinstatement - Assumed Name
+
+20. AFTON CITY OF
+   No results (Begins With, Active and Inactive; suffix-drop not applicable).
+
+21. AGAPE CHILD DEVELOPMENT CTR
+   No results (Begins With, Active and Inactive; suffix-drop not applicable).
+
+22. AGASSIZ TOWN OF
+   No results (Begins With, Active and Inactive; suffix-drop not applicable).
+
+23. AGILENT TECHNOLOGIES INC W
+   No results (Begins With, Active and Inactive; suffix-drop not applicable).
+
+24. AITKIN CITY OF T
+   No results (Begins With, Active and Inactive; suffix-drop not applicable).
+
+25. AITKIN COUNTY ENVIRONMENTAL SERVICES
+   No results (Begins With, Active and Inactive; suffix-drop not applicable).
